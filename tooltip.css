@@ -47,10 +47,12 @@
 }
 [tooltip-t]:after{
   bottom: 100%;
+  left: 7.5px;
   margin-bottom: 7px;
 }
 [tooltip-b]:after{
   top: 100%;
+  left: 7.5px;
   margin-top: 7px;
 }
 [tooltip-r]:after{
